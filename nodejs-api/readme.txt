@@ -14,16 +14,16 @@ Use `npm install <pkg>` afterwards to install a package and
 save it as a dependency in the package.json file.
 
 Press ^C at any time to quit.
-package name: (nodejs-api) nodejs
+package name: (nodejs-api) nodejs                                       //command 
 version: (1.0.0)
-description: rest api use nodeJs
-entry point: (app.js)                                                                                                                                                                                          
+description: rest api use nodeJs                                        // add description
+entry point: (app.js)                                                   //add entrty point                                                                                                                                                              
 test command:                                                                                                                                                                                                  
 git repository:                                                                                                                                                                                                
-keywords: nodejs, express, mongodb
-author: Azzar                                                                                                                                                                                                  
+keywords: nodejs, express, mongodb                                        //add keyword
+author: Azzar                                                             //add author                                                                                                                                                                  
 license: (ISC)                                                                                                                                                                                                 
-About to write to D:\WEB 1\NodeJs\nodejs\nodejs-api\package.json:
+About to write to D:\WEB 1\NodeJs\nodejs\nodejs-api\package.json:         //ini bakal auto generate
 
 {
   "name": "nodejs",
