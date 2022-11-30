@@ -1,11 +1,11 @@
 const hello = {
-    mahasiswa :  (text)=>{
-        console.log("ini hello Mahasiswa");
-    },
-    dosen : function (){
-        console.log("ini hello dosen")
+  mahasiswa: (text) => {
+    console.log("ini hello Mahasiswa");
+  },
+  dosen: function () {
+    console.log("ini hello dosen");
+  },
+};
+module.exports = hello;
 
-    }
-}
-module.exports = hello
-
+//ini test lagi
